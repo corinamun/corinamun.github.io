@@ -1,4 +1,13 @@
 header {
-	background: darksalmon;
-	color: white;
+ 		background-color: #00aea6;
+ 		color: white;
+ 		border-color:#cccccc;
+ 		font-family: 'georgia', times, 'times new roman', serif;
+ 		margin-left: 100px;
+ 		margin-right: 300px;
+ 		width: 20%;
+ 		font-size: 40px;
+ 		text-align: center;
+ 		font-style: bold;
+ 		padding: 40px;
 }
